@@ -1,0 +1,15 @@
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\bin\Debug\net6.0\PrecioDolar.exe
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\bin\Debug\net6.0\PrecioDolar.deps.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\bin\Debug\net6.0\PrecioDolar.runtimeconfig.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\bin\Debug\net6.0\PrecioDolar.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\bin\Debug\net6.0\PrecioDolar.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\obj\Debug\net6.0\PrecioDolar.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\obj\Debug\net6.0\PrecioDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\obj\Debug\net6.0\PrecioDolar.AssemblyInfoInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\obj\Debug\net6.0\PrecioDolar.AssemblyInfo.cs
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\obj\Debug\net6.0\PrecioDolar.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\obj\Debug\net6.0\PrecioDolar.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\obj\Debug\net6.0\refint\PrecioDolar.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\obj\Debug\net6.0\PrecioDolar.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\obj\Debug\net6.0\PrecioDolar.genruntimeconfig.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de POO\PrecioDolar\obj\Debug\net6.0\ref\PrecioDolar.dll
